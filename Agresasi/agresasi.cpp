@@ -16,3 +16,6 @@ int main(){
     varibu2->tambahkanAnak(varAnak2);
     varibu2->tambahkanAnak(varAnak3);
     varibu2->tambahkanAnak(varAnak1);
+
+    varibu->cetakAnak();
+    varibu2->cetakAnak();
